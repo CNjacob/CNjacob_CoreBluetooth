@@ -1,0 +1,23 @@
+PODS:
+  - CNjacob_CoreBluetooth (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - CNjacob_CoreBluetooth (from `../`)
+  - Kiwi
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kiwi
+
+EXTERNAL SOURCES:
+  CNjacob_CoreBluetooth:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CNjacob_CoreBluetooth: ac6666cd13f914f60e222d330f8fd58e08caef0d
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: b90232b6bceb04d93b0b40098679fe9671880afa
+
+COCOAPODS: 1.6.0
